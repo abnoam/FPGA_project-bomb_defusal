@@ -1,4 +1,4 @@
-# 💣 FPGA Bomb Defusal Game
+<h1 align="center">💣 FPGA Bomb Defusal Game</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=BdUq50Uujes">
