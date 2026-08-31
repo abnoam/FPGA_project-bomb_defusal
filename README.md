@@ -2,7 +2,13 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=BdUq50Uujes">
-    <img src="https://img.youtube.com/vi/BdUq50Uujes/maxresdefault.jpg" alt="FPGA Bomb Defusal Game">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube" alt="Watch Demo on YouTube">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BdUq50Uujes">
+    <img src="https://img.youtube.com/vi/BdUq50Uujes/maxresdefault.jpg" alt="FPGA Bomb Defusal Game - Watch Video">
   </a>
 </p>
 
@@ -12,8 +18,8 @@ A **Verilog-based FPGA Bomb Defusal Game** where the player must guess a randoml
 
 ### Difficulty Levels
 
-| Difficulty |        Time |
-| ---------- | ----------: |
+| Difficulty |         Time |
+| ---------- | -----------: |
 | 🟢 Easy    | 120 seconds |
 | 🟡 Medium  |  90 seconds |
 | 🔴 Hard    |  60 seconds |
